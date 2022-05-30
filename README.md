@@ -1,2 +1,3 @@
-# plantclef2022_challenge
- 
+# Neuon AI in PlantCLEF 2022
+This repository contains our team's training lists and scripts used in [PlantCLEF2022](https://www.aicrowd.com/challenges/lifeclef-2022-plant). 
+ Given a training dataset of 4 million images and 80,000 species, the task of the challenge was to identify the correct plant species from 26,868 multi-image plant observations. We trained several deep learning models based on the Inception-v4 and Inception-ResNet-v2 architectures and submitted 9 runs. Our best submission achieved a Macro Averaged Mean Reciprocal Rank score of 0.608. The official results can be found [here](https://www.imageclef.org/PlantCLEF2022).
